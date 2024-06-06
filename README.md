@@ -8,7 +8,7 @@ found in each paper, the total number of citations, and the percentage of papers
 
 ## Output example:
 
-`Getting` paper identifiers XXXX.YYYYY from listing: https://arxiv.org/list/astro-ph/new
+`Getting paper identifiers XXXX.YYYYY from listing: https://arxiv.org/list/astro-ph/new `
 
 Scraping paper: https://arxiv.org/pdf/2406.01666.pdf
 Number of citations: 10 (++++++++++)
