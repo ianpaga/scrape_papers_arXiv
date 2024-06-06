@@ -8,7 +8,7 @@ found in each paper, the total number of citations, and the percentage of papers
 
 ## Output example:
 
-When running the jupyter notebook ´scrape_papers_arXiv.ipynb´ on June 5th, 2024, the ´author = 'Calzetti, D.'´ was cited in ´4.9 %´ of the total amount of [astro-ph papers on the arXiv](https://arxiv.org/list/astro-ph/new) i.e. 6 out of 122 papers had at least one citation for Calzetti. Moreover, the article with identifier [2406.01831](https://arxiv.org/abs/2406.01831) had the maximum number of citations i.e. `19 citations`. The author Calzetti D. had a total of 35 citations on June 5th, 2024. See the Figure below for more insights!
+When running the jupyter notebook ´scrape_papers_arXiv.ipynb´ on June 5th, 2024, the ´author = Calzetti, D.´ was cited in ´4.9 %´ of the total amount of [astro-ph papers on the arXiv](https://arxiv.org/list/astro-ph/new) i.e. 6 out of 122 papers had at least one citation for Calzetti. Moreover, the article with identifier [2406.01831](https://arxiv.org/abs/2406.01831) had the maximum number of citations i.e. `19 citations`. The author Calzetti D. had a total of 35 citations on June 5th, 2024. See the Figure below for more insights!
 
 ```
 Getting paper identifiers XXXX.YYYYY from listing: https://arxiv.org/list/astro-ph/new
