@@ -8,29 +8,30 @@ found in each paper, the total number of citations, and the percentage of papers
 
 ## Output example:
 
-`Getting paper identifiers XXXX.YYYYY from listing: https://arxiv.org/list/astro-ph/new
+```Getting paper identifiers XXXX.YYYYY from listing: https://arxiv.org/list/astro-ph/new
 
-`Scraping paper: https://arxiv.org/pdf/2406.01666.pdf`
-`Number of citations: 10 (++++++++++)`
+Scraping paper: https://arxiv.org/pdf/2406.01666.pdf
+Number of citations: 10 (++++++++++)
 
-`Scraping paper: https://arxiv.org/pdf/2406.01673.pdf`
-`Number of citations: 2 (++)`
+Scraping paper: https://arxiv.org/pdf/2406.01673.pdf
+Number of citations: 2 (++)
 
-`Scraping paper: https://arxiv.org/pdf/2406.01683.pdf`
-`Number of citations: 1 (+)`
+Scraping paper: https://arxiv.org/pdf/2406.01683.pdf
+Number of citations: 1 (+)
 
-`Scraping paper: https://arxiv.org/pdf/2406.01831.pdf`
-`Number of citations: 19 (+++++++++++++++++++)`
+Scraping paper: https://arxiv.org/pdf/2406.01831.pdf
+Number of citations: 19 (+++++++++++++++++++)
 
-`Scraping paper: https://arxiv.org/pdf/2406.02072.pdf`
-`Number of citations: 1 (+)`
+Scraping paper: https://arxiv.org/pdf/2406.02072.pdf
+Number of citations: 1 (+)
 
-`Scraping paper: https://arxiv.org/pdf/2402.18515.pdf`
-`Number of citations: 2 (++)`
+Scraping paper: https://arxiv.org/pdf/2402.18515.pdf
+Number of citations: 2 (++)
 
-`Scraping paper: https://arxiv.org/pdf/2405.19195.pdf`
-`Total number of citations: 35`
-`6/122 (4.9 %) of papers cite the author Calzetti, D.`
+Scraping paper: https://arxiv.org/pdf/2405.19195.pdf
+
+Total number of citations: 35
+6/122 (4.9 %) of papers cite the author Calzetti, D.```
 
 ![citations](https://github.com/ianpaga/scrape_papers_arXiv/assets/57350668/b843e6b4-246c-4ca2-94ae-f478fafe6391)
 
