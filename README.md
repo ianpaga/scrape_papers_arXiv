@@ -6,9 +6,9 @@ This script scrapes the latest papers from specified categories on arXiv, extrac
 and searches for citations of a specified author within those papers. Then it prints the number of citations 
 found in each paper, the total number of citations, and the percentage of papers that cite the author.
 
-## Output example:
+When running the Jupyter notebook `scrape_papers_arXiv.ipynb` on June 5th, 2024, we discovered that the `author = 'Calzetti, D.'` was cited in `4.9 %` of the total amount of [astro-ph](https://arxiv.org/list/astro-ph/new) papers on the arXiv i.e. 6 out of 122 papers had at least one citation for Calzetti. Moreover, the article with identifier [2406.01831](https://arxiv.org/abs/2406.01831) had the maximum number of citations: `19 citations`. The author Calzetti D. had a `total of 35 citations` on June 5th, 2024. See the Figure below for more insights!
 
-When running the jupyter notebook `scrape_papers_arXiv.ipynb` on June 5th, 2024, the `author = 'Calzetti, D.'` was cited in `4.9 %` of the total amount of [astro-ph](https://arxiv.org/list/astro-ph/new) papers on the arXiv i.e. 6 out of 122 papers had at least one citation for Calzetti. Moreover, the article with identifier [2406.01831](https://arxiv.org/abs/2406.01831) had the maximum number of citations: `19 citations`. The author Calzetti D. had a `total of 35 citations` on June 5th, 2024. See the Figure below for more insights!
+## Output example:
 
 ```
 Getting paper identifiers XXXX.YYYYY from listing: https://arxiv.org/list/astro-ph/new
