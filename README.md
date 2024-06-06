@@ -8,6 +8,8 @@ found in each paper, the total number of citations, and the percentage of papers
 
 ## Output example:
 
+When running the jupyter notebook ´scrape_papers_arXiv.ipynb´ on June 5th, 2024, the ´author = 'Calzetti, D.'´ was cited in ´4.9 %´ of the total amount of [astro-ph papers on the arXiv](https://arxiv.org/list/astro-ph/new) i.e. 6 out of 122 papers had at least one citation for Calzetti. Moreover, the article with identifier [2406.01831](https://arxiv.org/abs/2406.01831) had the maximum number of citations i.e. `19 citations`. The author Calzetti D. had a total of 35 citations on June 5th, 2024.  
+
 ```
 Getting paper identifiers XXXX.YYYYY from listing: https://arxiv.org/list/astro-ph/new
 
@@ -35,6 +37,26 @@ Total number of citations: 35
 6/122 (4.9 %) of papers cite the author Calzetti, D.
 
 ```
+```
+<p style="color: blue;">Getting paper identifiers XXXX.YYYYY from listing: https://arxiv.org/list/astro-ph/new</p>
+<p style="color: green;">Scraping paper: https://arxiv.org/pdf/2406.01666.pdf<br>
+Number of citations: 10 (++++++++++)</p>
+<p style="color: green;">Scraping paper: https://arxiv.org/pdf/2406.01673.pdf<br>
+Number of citations: 2 (++)</p>
+<p style="color: green;">Scraping paper: https://arxiv.org/pdf/2406.01683.pdf<br>
+Number of citations: 1 (+)</p>
+<p style="color: green;">Scraping paper: https://arxiv.org/pdf/2406.01831.pdf<br>
+Number of citations: 19 (+++++++++++++++++++)</p>
+<p style="color: green;">Scraping paper: https://arxiv.org/pdf/2406.02072.pdf<br>
+Number of citations: 1 (+)</p>
+<p style="color: green;">Scraping paper: https://arxiv.org/pdf/2402.18515.pdf<br>
+Number of citations: 2 (++)</p>
+<p style="color: green;">Scraping paper: https://arxiv.org/pdf/2405.19195.pdf</p>
+<p style="color: red;">Total number of citations: 35<br>
+6/122 (4.9 %) of papers cite the author Calzetti, D.</p>
+
+```
+
 
 ![citations](https://github.com/ianpaga/scrape_papers_arXiv/assets/57350668/b843e6b4-246c-4ca2-94ae-f478fafe6391)
 
