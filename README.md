@@ -1,5 +1,5 @@
 
-Scraping latest papers from [arXiv.org](https://arxiv.org/): Searching for citations by author
+Scraping latest papers from [arXiv.org](https://arxiv.org/): Searching for citations
 ====================
 
 This script scrapes the latest papers from specified categories on arXiv, extracts the text from their PDFs,
